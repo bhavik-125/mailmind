@@ -2,7 +2,7 @@
 
 Email analysis and response automation tool. Analyze emails to extract priorities, action items, and generate suggested replies.
 
-![MailMind Screenshot](assets/screenshot.png)
+![MailMind Screenshot](assets/Screenshot.png)
 
 ## Features
 
